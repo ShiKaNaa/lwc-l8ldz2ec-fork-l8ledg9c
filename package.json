@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/shikanaa.lwc-l8ldz2ec-fork-l8ledg9c",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve EwstK2PeKTeq0Ll3SCkW --open"
+  }
+}
